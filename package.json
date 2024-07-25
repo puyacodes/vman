@@ -1,0 +1,15 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "this tiny tool looks for a json file named 'info.json' in currecnt directory and adds a timestamp to its content.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mansoor Omrani",
+  "license": "MIT",
+  "dependencies": {
+    "jalali-moment": "^3.3.11"
+  }
+}
